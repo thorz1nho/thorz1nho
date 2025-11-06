@@ -7,7 +7,7 @@ Lifelong Learner, currently studying informatic at Telkom University .
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Backend web dev . </br>
+    - :keyboard: I’m currently learning about Artificial intelligence . </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: thoriqrahita@gmail.com  </br>
     - :cloud: Pronouns: He/Him. </br>
