@@ -9,7 +9,7 @@ Lifelong Learner, currently studying informatic at Telkom University .
 <p>
     - :keyboard: I’m currently learning Backend web dev . </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="thoriqrahita@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: thoriqrahita@gmail.com  </br>
     - :cloud: Pronouns: He/Him. </br>
     - :game_die: i love coding and games. </br>
 <p>
